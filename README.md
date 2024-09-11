@@ -1,14 +1,7 @@
 <h1 align="center">Hi, I'm Bhaskar Sharma 👋 </p>
 
-### 
-
-<div align="center">
-  <img height="200" src="https://github.com/probhask.png"  />
-</div>
-
 ###
 
-## 🚀 About Me
 I'm a passionate **Frontend Developer** and **React.js** enthusiast, focused on building dynamic, responsive, and efficient web applications. I love coding and always aim to write clean, maintainable code.
 <p align="left">📚 I'm currently learning React Native</p>
 
