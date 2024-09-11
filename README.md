@@ -2,14 +2,15 @@
 
 ###
 
-I'm a passionate **Frontend Developer** and **React.js** enthusiast, focused on building dynamic, responsive, and efficient web applications. I love coding and always aim to write clean, maintainable code.
-<p align="left">📚 I'm currently learning React Native</p>
+<p lign="left">I'm a passionate <b>Frontend </b> and <b>React.js Developer</b> enthusiast, focused on building dynamic, responsive, and efficient web applications. I love coding and always aim to write clean, maintainable code.<p>
+<p align="left">📚 I'm currently learning <b>React Native</b></p>
 
-## 🛠️ Skills
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3, SASS
-- **Frameworks & Libraries**: React.js, Redux, Bootstrap, Tailwind CSS
-- **Tools**: Git, GitHub, Vite, npm, Jest, Vitest
-- **API Integration**: Axios
+<br/>
+<h2 align="left">🛠️ Skills</h3>
+<p>•<b>Languages</b>: JavaScript, TypeScript, HTML5, CSS3, SASS</p>
+<p>•<b>Frameworks & Libraries</b>: React.js, Redux, Bootstrap, Tailwind CSS</p>
+<p>•<b>Tools</b>: Git, GitHub, Vite, npm, Jest, Vitest</p>
+<p>•<b>API Integration</b>: Axios</p>
 
 ###
 
@@ -39,11 +40,16 @@ I'm a passionate **Frontend Developer** and **React.js** enthusiast, focused on 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
 
-<h2 align="left">Connect with me:</h3>
+<br/>
+<h2 align="left">🌐 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhaskar-sharma-105a55238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-sharma-105a55238" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bhaskar-sharma-105a55238" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:bhaskarneerj23@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </p>
 
 ###
