@@ -3,7 +3,6 @@
 ###
 
 <p lign="left">I'm a passionate <b>Frontend </b> and <b>React.js Developer</b> enthusiast, focused on building dynamic, responsive, and efficient web applications. I love coding and always aim to write clean, maintainable code.<p>
-<p align="left">📚 I'm currently learning <b>React Native</b></p>
 
 <br/>
 <h2 align="left">🛠️ Skills</h3>
