@@ -7,7 +7,7 @@
 <br/>
 <h2 align="left">🛠️ Skills</h3>
 <p>•<b>Languages</b>: JavaScript, TypeScript, HTML5, CSS3, SASS</p>
-<p>•<b>Frameworks & Libraries</b>: React.js, Redux, Bootstrap, Tailwind CSS</p>
+<p>•<b>Frameworks & Libraries</b>: React.js, Redux, Bootstrap, Tailwind CSS, Material UI</p>
 <p>•<b>Tools</b>: Git, GitHub, Vite, npm, Jest, Vitest</p>
 <p>•<b>API Integration</b>: Axios</p>
 
@@ -32,6 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="40" alt="material ui logo"/>
+<img width="12" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
