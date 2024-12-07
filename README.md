@@ -4,6 +4,8 @@
 
 <p lign="left">I'm a passionate <b>Frontend </b> and <b>React.js Developer</b> enthusiast, focused on building dynamic, responsive, and efficient web applications. I love coding and always aim to write clean, maintainable code.<p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=probhask)](https://git.io/streak-stats)
+
 <br/>
 <h2 align="left">🛠️ Skills</h3>
 <p>•<b>Languages</b>: JavaScript, TypeScript, HTML5, CSS3, SASS</p>
@@ -11,7 +13,6 @@
 <p>•<b>Tools</b>: Git, GitHub, Vite, npm, Jest, Vitest</p>
 <p>•<b>API Integration</b>: Axios</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=probhask)](https://git.io/streak-stats)
 
 ###
 
