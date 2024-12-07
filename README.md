@@ -11,6 +11,8 @@
 <p>•<b>Tools</b>: Git, GitHub, Vite, npm, Jest, Vitest</p>
 <p>•<b>API Integration</b>: Axios</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=probhask)](https://git.io/streak-stats)
+
 ###
 
 <div align="left">
