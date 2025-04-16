@@ -2,7 +2,14 @@
 
 ###
 
-<p lign="left">I'm a passionate <b>Frontend </b> and <b>React.js Developer</b> enthusiast, focused on building dynamic, responsive, and efficient web applications. I love coding and always aim to write clean, maintainable code.<p>
+<p><strong>Full Stack Developer</strong> skilled in building modern, scalable web applications.</p>
+
+<p>Specializing in <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong>.</p>
+
+<p>I enjoy writing clean code, optimizing performance, and exploring new technologies.</p>
+
+<p>Open to collaboration and always up for learning something new!</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=probhask)](https://git.io/streak-stats)
 
