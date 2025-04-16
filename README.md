@@ -14,11 +14,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=probhask)](https://git.io/streak-stats)
 
 <br/>
-<h2 align="left">🛠️ Skills</h3>
-<p>•<b>Languages</b>: JavaScript, TypeScript, HTML5, CSS3, SASS</p>
-<p>•<b>Frameworks & Libraries</b>: React.js, Redux, Bootstrap, Tailwind CSS, Material UI</p>
-<p>•<b>Tools</b>: Git, GitHub, Vite, npm, Jest, Vitest</p>
-<p>•<b>API Integration</b>: Axios</p>
+<h2 align="left">🛠️ Skills</h2>
+
+<p>• <b>Languages</b>: JavaScript, TypeScript, HTML5, CSS3, SASS</p>
+<p>• <b>Frameworks & Libraries</b>: React.js, Next.js, Redux, Bootstrap, Tailwind CSS, Material UI, Shadcn UI</p>
+<p>• <b>Backend</b>: Node.js, Express.js, MongoDB</p>
+<p>• <b>Tools</b>: Git, GitHub, Vite, npm, Postman, Jest, Vitest</p>
+
 
 
 ###
