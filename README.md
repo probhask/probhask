@@ -26,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="left" className="flex justify-center items-center gap-2 flex-wrap">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
